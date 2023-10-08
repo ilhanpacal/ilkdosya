@@ -22,7 +22,7 @@ public class tekrarsizString {
         }
         System.out.println(" ");
         System.out.println("input :"+ input);
-        System.out.println("tekrarsız input :"+tekrarsizInput);
+        System.out.println("tekrarsız input : "+tekrarsizInput);
         System.out.println("tekrarsiz harf sayısı :"+tekrarsizInput.length());
 
 
